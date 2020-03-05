@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "F:\\themoon\\TitleBar\\app\\build\\intermediates\\res\\merged\\release\\menu\\listcontextmenu1.xml",
+        "source": "F:\\themoon\\TitleBar\\app\\src\\main\\res\\menu\\listcontextmenu1.xml"
+    },
+    {
+        "merged": "F:\\themoon\\TitleBar\\app\\build\\intermediates\\res\\merged\\release\\menu\\activity_user_drawer.xml",
+        "source": "F:\\themoon\\TitleBar\\app\\src\\main\\res\\menu\\activity_user_drawer.xml"
+    },
+    {
+        "merged": "F:\\themoon\\TitleBar\\app\\build\\intermediates\\res\\merged\\release\\menu\\main.xml",
+        "source": "F:\\themoon\\TitleBar\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "F:\\themoon\\TitleBar\\app\\build\\intermediates\\res\\merged\\release\\menu\\global.xml",
+        "source": "F:\\themoon\\TitleBar\\app\\src\\main\\res\\menu\\global.xml"
+    },
+    {
+        "merged": "F:\\themoon\\TitleBar\\app\\build\\intermediates\\res\\merged\\release\\menu\\listcontextmenu.xml",
+        "source": "F:\\themoon\\TitleBar\\app\\src\\main\\res\\menu\\listcontextmenu.xml"
+    }
+]

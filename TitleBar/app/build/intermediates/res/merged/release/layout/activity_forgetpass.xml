@@ -1,0 +1,163 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="org.benpao.viewactivity.RegActivity">
+    <LinearLayout
+        android:gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/linearLayout2"
+        android:orientation="horizontal">
+        <ImageView
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:background="@drawable/logo"
+            android:layout_marginTop="10dp"
+            android:layout_centerHorizontal="true"
+            tools:ignore="ObsoleteLayoutParam" />
+
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:layout_marginTop="60dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginRight="10dp"
+        style="@style/accountInputBorder"
+        android:layout_marginLeft="10dp">
+        <EditText
+            android:id="@+id/forget_uname"
+            style="@style/accountEditText"
+            android:layout_width="fill_parent"
+            android:layout_height="40dip"
+            android:background="@drawable/bg_edittext"
+            android:padding="5dip"
+            android:inputType="phone"
+            android:textColor="@drawable/blue"
+            android:layout_margin="36dip"
+            android:textColorHint="#AAAAAA"
+            android:textSize="15dip"
+            android:singleLine="true"
+            android:hint="@string/passwordnote"
+            />
+
+
+    </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_marginLeft="57dp"
+            android:layout_marginTop="146dp"
+            tools:ignore="RtlHardcoded">
+
+                <EditText
+                    android:id="@+id/forget_idnum"
+                    style="@style/accountEditText"
+                    android:layout_width="180dp"
+                    android:inputType="numberPassword"
+                    android:textColor="@drawable/blue"
+                    android:layout_height="40dp"
+                    android:background="@drawable/bg_edittext"
+                    android:textColorHint="#AAAAAA"
+                    android:textSize="14dip"
+                    android:singleLine="true"
+                    android:hint="@string/idsix"
+                    />
+                <Button
+                    style=""
+                    android:id="@+id/forget_check"
+                    android:layout_width="match_parent"
+                    android:layout_height="40dp"
+                    android:text="@string/yanzheng"
+                    android:background="@drawable/btn_common"
+                    android:textColor="@drawable/white"
+                    android:layout_marginRight="45dp"/>
+
+
+
+
+        </LinearLayout>
+
+
+    <LinearLayout
+        android:layout_marginTop="160dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginRight="10dp"
+        android:layout_marginLeft="10dp"
+        style="@style/accountInputBorder"
+        android:id="@+id/linearLayout_repassword">
+        <EditText
+            android:inputType="textPassword"
+            android:id="@+id/forget_repass"
+            style="@style/accountEditText"
+            android:layout_width="fill_parent"
+            android:layout_height="40dip"
+            android:background="@drawable/bg_edittext"
+            android:padding="5dip"
+            android:textColor="@drawable/blue"
+            android:layout_margin="36dip"
+            android:textColorHint="#AAAAAA"
+            android:textSize="15dip"
+            android:singleLine="true"
+            android:hint="@string/repassword"
+            />
+    </LinearLayout>
+    <LinearLayout
+        android:layout_marginTop="210dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginRight="10dp"
+        android:layout_marginLeft="10dp"
+        style="@style/accountInputBorder"
+        android:id="@+id/linearLayout_idsix">
+        <EditText
+            android:id="@+id/forget_repassre"
+            style="@style/accountEditText"
+            android:layout_width="fill_parent"
+            android:layout_height="40dip"
+            android:background="@drawable/bg_edittext"
+            android:padding="5dip"
+            android:textColor="@drawable/blue"
+            android:layout_margin="36dip"
+            android:textColorHint="#AAAAAA"
+            android:textSize="15dip"
+            android:inputType="textPassword"
+            android:singleLine="true"
+            android:hint="@string/re_repassword_text"
+            />
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="300dp">
+        <Button
+            android:id="@+id/forget_repassbtn"
+            android:layout_width="match_parent"
+            android:layout_height="37dp"
+            android:text="@string/repassword_btn"
+            android:background="@drawable/btn_common"
+            android:gravity="center"
+            android:layout_marginLeft="60dp"
+            android:layout_marginRight="50dp"
+            android:textSize="14sp"
+            android:paddingTop="10dp"
+            android:paddingBottom="10dp"
+            android:textColor="@drawable/white"
+
+            tools:ignore="RtlHardcoded" />
+    </LinearLayout>
+
+
+
+</RelativeLayout>

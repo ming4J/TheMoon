@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/list_menu_download" android:title="下载"></item>
+    <item android:id="@+id/list_menu_delete" android:title="删除"></item>
+    <item android:id="@+id/list_menu_rename" android:title="重命名"></item>
+    <item android:id="@+id/list_menu_move" android:title="移动"></item>
+</menu>

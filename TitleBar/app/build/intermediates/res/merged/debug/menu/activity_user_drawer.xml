@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_all"
+            android:icon="@drawable/ic_nav_all"
+            android:title="全部文件" />
+
+        <item
+            android:id="@+id/nav_document"
+            android:icon="@drawable/ic_nav_doc"
+            android:title="文档" />
+        <item
+            android:id="@+id/nav_gallery"
+            android:icon="@drawable/ic_nav_pic"
+            android:title="照片" />
+        <item
+            android:id="@+id/nav_music"
+            android:icon="@drawable/ic_nav_music"
+            android:title="音乐" />
+        <item
+            android:id="@+id/nav_video"
+            android:icon="@drawable/ic_nav_video"
+            android:title="视频" />
+        <item
+            android:id="@+id/nav_zip"
+            android:icon="@drawable/ic_nav_zip"
+            android:title="压缩文件" />
+        <item
+            android:id="@+id/nav_other"
+            android:icon="@drawable/ic_nav_other"
+            android:title="其他文件" />
+
+        <item
+            android:icon="@drawable/ic_nav_exit"
+            android:id="@+id/nav_exit"
+            android:title="退出登录"
+        />
+
+    </group>
+
+
+
+</menu>

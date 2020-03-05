@@ -1,0 +1,134 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="org.benpao.viewactivity.MainActivity">
+    <LinearLayout
+        android:gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/linearLayout2"
+        android:orientation="horizontal">
+        <ImageView
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:background="@drawable/logo"
+            android:layout_marginTop="10dp"
+            android:layout_below="@+id/linearLayout2"
+            android:layout_centerHorizontal="true" />
+
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:layout_marginTop="60dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginRight="10dp"
+        style="@style/accountInputBorder"
+        android:layout_marginLeft="10dp">
+        <EditText
+            style="@style/accountEditText"
+            android:layout_width="fill_parent"
+            android:layout_height="40dip"
+            android:id="@+id/main_unm"
+            android:background="@drawable/bg_edittext"
+            android:padding="5dip"
+            android:textColor="@drawable/blue"
+            android:layout_margin="36dip"
+            android:textColorHint="#AAAAAA"
+            android:textSize="15dip"
+            android:singleLine="true"
+            android:inputType="phone"
+            android:hint="@string/passwordnote"
+            />
+
+
+    </LinearLayout>
+    <LinearLayout
+        android:layout_marginTop="110dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginRight="10dp"
+        android:layout_marginLeft="10dp"
+        style="@style/accountInputBorder"
+        android:id="@+id/linearLayout">
+        <EditText
+            android:id="@+id/main_pass"
+            style="@style/accountEditText"
+            android:layout_width="fill_parent"
+            android:layout_height="40dip"
+            android:background="@drawable/bg_edittext"
+            android:padding="5dip"
+            android:inputType="textPassword"
+            android:layout_margin="36dip"
+            android:textColor="@drawable/blue"
+            android:textColorHint="#AAAAAA"
+            android:textSize="15dip"
+            android:singleLine="true"
+            android:hint="@string/usernamenote"
+            />
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        >
+
+        <TextView
+            android:id="@+id/forget_main"
+            android:layout_marginLeft="60dp"
+            android:layout_marginTop="205dp"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="@string/forget"
+            android:clickable="true"
+            android:onClick="onClick"
+            android:textColor="@drawable/blue"
+            />
+
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="190dp"
+        android:layout_marginTop="199dp">
+        <CheckBox
+            android:id="@+id/main_rem"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@drawable/blue"
+            android:text="记住账号"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="220dp">
+        <Button
+            android:id="@+id/main_Login"
+            android:layout_width="match_parent"
+            android:layout_height="37dp"
+            android:text="@string/login"
+            android:background="@drawable/btn_common"
+            android:gravity="center"
+            android:onClick="onClick"
+            android:layout_marginTop="16dp"
+            android:layout_marginLeft="60dp"
+            android:layout_marginRight="50dp"
+            android:textSize="14sp"
+            android:paddingTop="10dp"
+            android:paddingBottom="10dp"
+            android:textColor="@drawable/white"
+
+            />
+    </LinearLayout>
+
+
+
+
+</RelativeLayout>

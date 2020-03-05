@@ -1,0 +1,150 @@
+[
+    {
+        "merged": "F:\\themoon\\TitleBar\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\start.png",
+        "source": "F:\\themoon\\TitleBar\\app\\src\\main\\res\\drawable-xxhdpi\\start.png"
+    },
+    {
+        "merged": "F:\\themoon\\TitleBar\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\ic_menu_camera.png",
+        "source": "F:\\themoon\\TitleBar\\app\\build\\generated\\res\\pngs\\release\\drawable-xxhdpi\\ic_menu_camera.png"
+    },
+    {
+        "merged": "F:\\themoon\\TitleBar\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\list_other.png",
+        "source": "F:\\themoon\\TitleBar\\app\\src\\main\\res\\drawable-xxhdpi\\list_other.png"
+    },
+    {
+        "merged": "F:\\themoon\\TitleBar\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\ic_nav_all.png",
+        "source": "F:\\themoon\\TitleBar\\app\\src\\main\\res\\drawable-xxhdpi\\ic_nav_all.png"
+    },
+    {
+        "merged": "F:\\themoon\\TitleBar\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\list_refresh.png",
+        "source": "F:\\themoon\\TitleBar\\app\\src\\main\\res\\drawable-xxhdpi\\list_refresh.png"
+    },
+    {
+        "merged": "F:\\themoon\\TitleBar\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\ic_float_back.png",
+        "source": "F:\\themoon\\TitleBar\\app\\src\\main\\res\\drawable-xxhdpi\\ic_float_back.png"
+    },
+    {
+        "merged": "F:\\themoon\\TitleBar\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\ic_nav_exit.png",
+        "source": "F:\\themoon\\TitleBar\\app\\src\\main\\res\\drawable-xxhdpi\\ic_nav_exit.png"
+    },
+    {
+        "merged": "F:\\themoon\\TitleBar\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\drawer_shadow.9.png",
+        "source": "F:\\themoon\\TitleBar\\app\\src\\main\\res\\drawable-xxhdpi\\drawer_shadow.9.png"
+    },
+    {
+        "merged": "F:\\themoon\\TitleBar\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\ic_menu_share.png",
+        "source": "F:\\themoon\\TitleBar\\app\\build\\generated\\res\\pngs\\release\\drawable-xxhdpi\\ic_menu_share.png"
+    },
+    {
+        "merged": "F:\\themoon\\TitleBar\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\ic_nav_music.png",
+        "source": "F:\\themoon\\TitleBar\\app\\src\\main\\res\\drawable-xxhdpi\\ic_nav_music.png"
+    },
+    {
+        "merged": "F:\\themoon\\TitleBar\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\ic_float_new.png",
+        "source": "F:\\themoon\\TitleBar\\app\\src\\main\\res\\drawable-xxhdpi\\ic_float_new.png"
+    },
+    {
+        "merged": "F:\\themoon\\TitleBar\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\ic_yupan.png",
+        "source": "F:\\themoon\\TitleBar\\app\\src\\main\\res\\drawable-xxhdpi\\ic_yupan.png"
+    },
+    {
+        "merged": "F:\\themoon\\TitleBar\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\ic_nav_video.png",
+        "source": "F:\\themoon\\TitleBar\\app\\src\\main\\res\\drawable-xxhdpi\\ic_nav_video.png"
+    },
+    {
+        "merged": "F:\\themoon\\TitleBar\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\ic_userback.png",
+        "source": "F:\\themoon\\TitleBar\\app\\src\\main\\res\\drawable-xxhdpi\\ic_userback.png"
+    },
+    {
+        "merged": "F:\\themoon\\TitleBar\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\logo.png",
+        "source": "F:\\themoon\\TitleBar\\app\\src\\main\\res\\drawable-xxhdpi\\logo.png"
+    },
+    {
+        "merged": "F:\\themoon\\TitleBar\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\list_zip.png",
+        "source": "F:\\themoon\\TitleBar\\app\\src\\main\\res\\drawable-xxhdpi\\list_zip.png"
+    },
+    {
+        "merged": "F:\\themoon\\TitleBar\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\ic_icon_lancher.png",
+        "source": "F:\\themoon\\TitleBar\\app\\src\\main\\res\\drawable-xxhdpi\\ic_icon_lancher.png"
+    },
+    {
+        "merged": "F:\\themoon\\TitleBar\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\ic_icon_yupan.png",
+        "source": "F:\\themoon\\TitleBar\\app\\src\\main\\res\\drawable-xxhdpi\\ic_icon_yupan.png"
+    },
+    {
+        "merged": "F:\\themoon\\TitleBar\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\ic_gongneng.png",
+        "source": "F:\\themoon\\TitleBar\\app\\src\\main\\res\\drawable-xxhdpi\\ic_gongneng.png"
+    },
+    {
+        "merged": "F:\\themoon\\TitleBar\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\ic_moveto.png",
+        "source": "F:\\themoon\\TitleBar\\app\\src\\main\\res\\drawable-xxhdpi\\ic_moveto.png"
+    },
+    {
+        "merged": "F:\\themoon\\TitleBar\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\list_dir.png",
+        "source": "F:\\themoon\\TitleBar\\app\\src\\main\\res\\drawable-xxhdpi\\list_dir.png"
+    },
+    {
+        "merged": "F:\\themoon\\TitleBar\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\ic_float_search.png",
+        "source": "F:\\themoon\\TitleBar\\app\\src\\main\\res\\drawable-xxhdpi\\ic_float_search.png"
+    },
+    {
+        "merged": "F:\\themoon\\TitleBar\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\ic_download_notice.png",
+        "source": "F:\\themoon\\TitleBar\\app\\src\\main\\res\\drawable-xxhdpi\\ic_download_notice.png"
+    },
+    {
+        "merged": "F:\\themoon\\TitleBar\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\ic_menu_manage.png",
+        "source": "F:\\themoon\\TitleBar\\app\\build\\generated\\res\\pngs\\release\\drawable-xxhdpi\\ic_menu_manage.png"
+    },
+    {
+        "merged": "F:\\themoon\\TitleBar\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\ic_nav_zip.png",
+        "source": "F:\\themoon\\TitleBar\\app\\src\\main\\res\\drawable-xxhdpi\\ic_nav_zip.png"
+    },
+    {
+        "merged": "F:\\themoon\\TitleBar\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\ic_nav_pic.png",
+        "source": "F:\\themoon\\TitleBar\\app\\src\\main\\res\\drawable-xxhdpi\\ic_nav_pic.png"
+    },
+    {
+        "merged": "F:\\themoon\\TitleBar\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\ic_menu_gallery.png",
+        "source": "F:\\themoon\\TitleBar\\app\\build\\generated\\res\\pngs\\release\\drawable-xxhdpi\\ic_menu_gallery.png"
+    },
+    {
+        "merged": "F:\\themoon\\TitleBar\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\ic_user_rename.png",
+        "source": "F:\\themoon\\TitleBar\\app\\src\\main\\res\\drawable-xxhdpi\\ic_user_rename.png"
+    },
+    {
+        "merged": "F:\\themoon\\TitleBar\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\ic_launcher.png",
+        "source": "F:\\themoon\\TitleBar\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\themoon\\TitleBar\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\ic_menu_slideshow.png",
+        "source": "F:\\themoon\\TitleBar\\app\\build\\generated\\res\\pngs\\release\\drawable-xxhdpi\\ic_menu_slideshow.png"
+    },
+    {
+        "merged": "F:\\themoon\\TitleBar\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\pull_to_refresh_arrow.png",
+        "source": "F:\\themoon\\TitleBar\\app\\src\\main\\res\\drawable-xxhdpi\\pull_to_refresh_arrow.png"
+    },
+    {
+        "merged": "F:\\themoon\\TitleBar\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\ic_menu_send.png",
+        "source": "F:\\themoon\\TitleBar\\app\\build\\generated\\res\\pngs\\release\\drawable-xxhdpi\\ic_menu_send.png"
+    },
+    {
+        "merged": "F:\\themoon\\TitleBar\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\ic_float_upload.png",
+        "source": "F:\\themoon\\TitleBar\\app\\src\\main\\res\\drawable-xxhdpi\\ic_float_upload.png"
+    },
+    {
+        "merged": "F:\\themoon\\TitleBar\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\ic_drawer.png",
+        "source": "F:\\themoon\\TitleBar\\app\\src\\main\\res\\drawable-xxhdpi\\ic_drawer.png"
+    },
+    {
+        "merged": "F:\\themoon\\TitleBar\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\ic_nav_doc.png",
+        "source": "F:\\themoon\\TitleBar\\app\\src\\main\\res\\drawable-xxhdpi\\ic_nav_doc.png"
+    },
+    {
+        "merged": "F:\\themoon\\TitleBar\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\ic_nav_other.png",
+        "source": "F:\\themoon\\TitleBar\\app\\src\\main\\res\\drawable-xxhdpi\\ic_nav_other.png"
+    },
+    {
+        "merged": "F:\\themoon\\TitleBar\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\ic_rename.png",
+        "source": "F:\\themoon\\TitleBar\\app\\src\\main\\res\\drawable-xxhdpi\\ic_rename.png"
+    }
+]

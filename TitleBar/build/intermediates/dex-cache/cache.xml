@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="F:\themoon\TitleBar\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d9ecde39b460470e655de6e47c05573d2d5a8bfb">
+        <dex dex="F:\themoon\TitleBar\app\build\intermediates\pre-dexed\release\com.android.support-cardview-v7-23.4.0_29fa589978440e4c75b7eb04a63beff6083df5bd.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\themoon\TitleBar\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="F:\themoon\TitleBar\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.4.0_9cf5dd30ba4121372195a046a39f0ba3b12f1295\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\themoon\TitleBar\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="677f33e10e929942febb75f81e57c0b3f8e1e60a">
+        <dex dex="F:\themoon\TitleBar\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_7bffb747c2bf6a8350ea8ce1fbc6dc97770a7608\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\themoon\TitleBar\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="F:\themoon\TitleBar\app\build\intermediates\pre-dexed\release\com.android.support-support-vector-drawable-23.4.0_9cf5dd30ba4121372195a046a39f0ba3b12f1295.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\themoon\TitleBar\app\build\intermediates\exploded-aar\com.android.support\design\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="F:\themoon\TitleBar\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-23.4.0_9ded853e4ff413323e0a363fecc180ed2bf44dae\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\themoon\TitleBar\app\build\intermediates\exploded-aar\com.android.support\design\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="F:\themoon\TitleBar\app\build\intermediates\pre-dexed\release\com.android.support-design-23.4.0_9ded853e4ff413323e0a363fecc180ed2bf44dae.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\themoon\TitleBar\app\build\intermediates\exploded-aar\com.getbase\floatingactionbutton\1.10.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f40cf334cdc8b098b74312e21c7741c6eefbeb0e">
+        <dex dex="F:\themoon\TitleBar\app\build\intermediates\pre-dexed\release\com.getbase-floatingactionbutton-1.10.1_f2ffc4bf97301052045290eb82894dc56da246f6.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\themoon\TitleBar\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d9ecde39b460470e655de6e47c05573d2d5a8bfb">
+        <dex dex="F:\themoon\TitleBar\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-23.4.0_29fa589978440e4c75b7eb04a63beff6083df5bd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\themoon\TitleBar\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ef30c00e7c5caf0dfa6d4c01043c471980d8ace0">
+        <dex dex="F:\themoon\TitleBar\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_4eafc9a1ad62b6458cf39a10632e53a47f838936\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\themoon\TitleBar\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="F:\themoon\TitleBar\app\build\intermediates\pre-dexed\release\com.android.support-recyclerview-v7-23.4.0_dba21605e56d7fcb60e1481dc584eea88a39d598.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\themoon\TitleBar\app\build\intermediates\exploded-aar\com.getbase\floatingactionbutton\1.10.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f40cf334cdc8b098b74312e21c7741c6eefbeb0e">
+        <dex dex="F:\themoon\TitleBar\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.getbase-floatingactionbutton-1.10.1_f2ffc4bf97301052045290eb82894dc56da246f6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\themoon\TitleBar\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="F:\themoon\TitleBar\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.4.0_45d2b36305dedb7f804926936b59da93aa33cdc0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\themoon\TitleBar\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="F:\themoon\TitleBar\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-23.4.0_dba21605e56d7fcb60e1481dc584eea88a39d598\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\themoon\TitleBar\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="F:\themoon\TitleBar\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.4.0_c9949104671761229e2acb404a7602d59066cf21\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\themoon\TitleBar\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="F:\themoon\TitleBar\app\build\intermediates\pre-dexed\release\com.android.support-appcompat-v7-23.4.0_45d2b36305dedb7f804926936b59da93aa33cdc0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="H:\android-sdk-windows\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="F:\themoon\TitleBar\app\build\intermediates\pre-dexed\release\support-annotations-24.2.1_b5772ef3b10bf9fb11bf84821e04f626c64640ec.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\themoon\TitleBar\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="F:\themoon\TitleBar\app\build\intermediates\pre-dexed\release\com.android.support-animated-vector-drawable-23.4.0_c9949104671761229e2acb404a7602d59066cf21.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="H:\android-sdk-windows\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="F:\themoon\TitleBar\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.1_b5772ef3b10bf9fb11bf84821e04f626c64640ec\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\themoon\TitleBar\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="F:\themoon\TitleBar\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.4.0_974c74143819c1b9b79125668d61449ebfb06d38\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\themoon\TitleBar\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="F:\themoon\TitleBar\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.4.0_cbacf2dca25b594846b4881254d8ecb698ae2333\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\themoon\TitleBar\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="F:\themoon\TitleBar\app\build\intermediates\pre-dexed\release\com.android.support-support-v4-23.4.0_cbacf2dca25b594846b4881254d8ecb698ae2333.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\themoon\TitleBar\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="F:\themoon\TitleBar\app\build\intermediates\pre-dexed\release\internal_impl-23.4.0_974c74143819c1b9b79125668d61449ebfb06d38.jar" />
+    </item>
+
+</items>

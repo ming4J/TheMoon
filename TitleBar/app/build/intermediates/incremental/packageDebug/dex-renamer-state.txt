@@ -1,0 +1,7 @@
+#Wed Nov 23 20:21:52 CST 2016
+base.0=F\:\\themoon\\TitleBar\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_7bffb747c2bf6a8350ea8ce1fbc6dc97770a7608
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=F\:\\themoon\\TitleBar\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_4eafc9a1ad62b6458cf39a10632e53a47f838936\\classes.dex
+base.1=F\:\\themoon\\TitleBar\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_4eafc9a1ad62b6458cf39a10632e53a47f838936
+file.0=F\:\\themoon\\TitleBar\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_7bffb747c2bf6a8350ea8ce1fbc6dc97770a7608\\classes.dex

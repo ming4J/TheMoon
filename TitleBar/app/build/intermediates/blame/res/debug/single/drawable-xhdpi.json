@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "F:\\themoon\\TitleBar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_menu_slideshow.png",
+        "source": "F:\\themoon\\TitleBar\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_menu_slideshow.png"
+    },
+    {
+        "merged": "F:\\themoon\\TitleBar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_menu_gallery.png",
+        "source": "F:\\themoon\\TitleBar\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_menu_gallery.png"
+    },
+    {
+        "merged": "F:\\themoon\\TitleBar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\drawer_shadow.9.png",
+        "source": "F:\\themoon\\TitleBar\\app\\src\\main\\res\\drawable-xhdpi\\drawer_shadow.9.png"
+    },
+    {
+        "merged": "F:\\themoon\\TitleBar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_drawer.png",
+        "source": "F:\\themoon\\TitleBar\\app\\src\\main\\res\\drawable-xhdpi\\ic_drawer.png"
+    },
+    {
+        "merged": "F:\\themoon\\TitleBar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_launcher.png",
+        "source": "F:\\themoon\\TitleBar\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\themoon\\TitleBar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_menu_camera.png",
+        "source": "F:\\themoon\\TitleBar\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_menu_camera.png"
+    },
+    {
+        "merged": "F:\\themoon\\TitleBar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_menu_manage.png",
+        "source": "F:\\themoon\\TitleBar\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_menu_manage.png"
+    },
+    {
+        "merged": "F:\\themoon\\TitleBar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_menu_send.png",
+        "source": "F:\\themoon\\TitleBar\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_menu_send.png"
+    },
+    {
+        "merged": "F:\\themoon\\TitleBar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\back_arrow.png",
+        "source": "F:\\themoon\\TitleBar\\app\\src\\main\\res\\drawable-xhdpi\\back_arrow.png"
+    },
+    {
+        "merged": "F:\\themoon\\TitleBar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_menu_share.png",
+        "source": "F:\\themoon\\TitleBar\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_menu_share.png"
+    }
+]
